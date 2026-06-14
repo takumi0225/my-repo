@@ -1,2 +1,3 @@
 # my-repo
-feature-A
+feature-a
+feature-c
